@@ -59,6 +59,7 @@ def matrix(input):
         for entry in row_list:
             if entry[-1] != ")":
                 row_list[index] += ")"
+            index += 1
 
         entries_per_row = []
         for row in row_list:
