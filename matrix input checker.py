@@ -1,6 +1,6 @@
 #   THIS SCRIPT IS WRITTEN BY MATIN HUSEYNZADE AND FAKHRI JAFAROV. ALL RIGHTS RESERVED.
 # https://github.com/chillmetin/iztech
-
+# https://github.com/faxrij/
 
 
 
