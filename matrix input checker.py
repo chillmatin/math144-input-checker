@@ -185,4 +185,3 @@ while condition:
 
     print(50 * '-' + '\n')
 
-# Bu koda elave elediyim hissedir
