@@ -184,3 +184,5 @@ while condition:
         print('\n' + str(row_vector(user_input)))
 
     print(50 * '-' + '\n')
+
+# Bu koda elave elediyim hissedir
